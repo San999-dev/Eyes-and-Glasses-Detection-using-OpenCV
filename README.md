@@ -28,7 +28,7 @@ It highlights detected eyes in **blue** and glasses in **green**, making it easy
    git clone https://github.com/San999-dev/Eyes-and-Glasses-Detection.git
    cd eyes-glasses-detection
 
-   📊 Output
+  📊 Output
 
 Blue rectangle → Eye detected 👁️
 
